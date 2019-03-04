@@ -42,9 +42,9 @@ import theano
 import theano.tensor as T
 from theano.sandbox.rng_mrg import MRG_RandomStreams as RandomStreams
 
-from logistic_sgd import LogisticRegression, load_data
-from mlp import HiddenLayer
-from dA import dA
+from logistic_regression import LogisticRegression, load_data
+from MLP import HiddenLayer
+from DenoisingAutoEncoder import dA
 
 
 # start-snippet-1

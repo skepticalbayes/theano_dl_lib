@@ -42,7 +42,7 @@ import theano
 import theano.tensor as T
 from theano.sandbox.rng_mrg import MRG_RandomStreams as RandomStreams
 
-from logistic_sgd import load_data
+from logistic_regression import load_data
 from utils import tile_raster_images
 
 try:
