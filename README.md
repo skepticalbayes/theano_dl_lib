@@ -7,3 +7,16 @@ Stacked Auto Encoders and RNN.
 These implimentations have been executed with modularity in mind so it can be used as sklearn models for peeps 
 interested in Deep learning can pick up these models and play around and get accustomed to the idea of neural networks 
 skipping the cumbersome implimentation part.
+
+For a beginner looking for a learning track, please follow the following path:
+- logistic regression
+- MLP
+- CNN
+- Denoising Auto Encoder
+- Stacked Auto Encoder
+- RBM
+- DBN
+- HMC
+- Word Embeddings
+- RNN
+- RNN RBM
